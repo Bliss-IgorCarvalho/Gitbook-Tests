@@ -8,3 +8,4 @@
 * [Explore](explore/README.md)
   * [Lista de Artigos](explore/lista-de-artigos.md)
   * [Ecrã de Destaques (Blocos)](explore/ecra-de-destaques-blocos.md)
+* [Feed](feed.md)
