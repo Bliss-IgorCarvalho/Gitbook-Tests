@@ -1,6 +1,6 @@
 # Feed
 
-1. Resumos (digest - preview): Componente de acesso a geração/reprodução do Digest Summary (Resumo de múltiplos artigos).
+1. teste do soares
 2.
    1. As regras de exibição e interação com este componente serão especificadas no escopo da funcionalidade Digest Summary.\
       \
